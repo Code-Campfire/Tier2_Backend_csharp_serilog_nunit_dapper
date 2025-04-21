@@ -1,0 +1,15 @@
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/bin/Debug/net8.0/CodeFire.Infrastructure.deps.json
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/bin/Debug/net8.0/CodeFire.Infrastructure.dll
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/bin/Debug/net8.0/CodeFire.Infrastructure.pdb
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/bin/Debug/net8.0/CodeFire.Core.dll
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/bin/Debug/net8.0/CodeFire.Core.pdb
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/CodeFire.Infrastructure.csproj.AssemblyReference.cache
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/CodeFire.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/CodeFire.Infrastructure.AssemblyInfoInputs.cache
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/CodeFire.Infrastructure.AssemblyInfo.cs
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/CodeFire.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/CodeFire.CFD656EE.Up2Date
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/CodeFire.Infrastructure.dll
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/refint/CodeFire.Infrastructure.dll
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/CodeFire.Infrastructure.pdb
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Infrastructure/obj/Debug/net8.0/ref/CodeFire.Infrastructure.dll

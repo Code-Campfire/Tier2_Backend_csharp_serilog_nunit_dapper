@@ -1,0 +1,15 @@
+2025-04-21 02:48:29.012 -05:00 [INF] Now listening on: http://localhost:5000
+2025-04-21 02:48:29.034 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-21 02:48:29.034 -05:00 [INF] Hosting environment: Production
+2025-04-21 02:48:29.034 -05:00 [INF] Content root path: /Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.API
+2025-04-21 02:48:33.164 -05:00 [INF] Application is shutting down...
+2025-04-21 02:49:02.385 -05:00 [INF] Now listening on: http://localhost:5000
+2025-04-21 02:49:02.404 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-21 02:49:02.404 -05:00 [INF] Hosting environment: Production
+2025-04-21 02:49:02.404 -05:00 [INF] Content root path: /Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.API
+2025-04-21 02:49:06.992 -05:00 [INF] Application is shutting down...
+2025-04-21 02:53:49.117 -05:00 [INF] Now listening on: http://localhost:5000
+2025-04-21 02:53:49.136 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-21 02:53:49.136 -05:00 [INF] Hosting environment: Production
+2025-04-21 02:53:49.136 -05:00 [INF] Content root path: /Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.API
+2025-04-21 02:53:53.721 -05:00 [INF] Application is shutting down...

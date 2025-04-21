@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pscQ3KZHCoE=",
+  "success": true,
+  "projectFilePath": "/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/CodeFire.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/prestonrobbins/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/prestonrobbins/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/Users/prestonrobbins/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

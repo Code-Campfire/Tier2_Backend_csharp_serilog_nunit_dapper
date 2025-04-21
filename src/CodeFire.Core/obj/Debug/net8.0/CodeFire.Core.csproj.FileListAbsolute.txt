@@ -1,0 +1,12 @@
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/bin/Debug/net8.0/CodeFire.Core.deps.json
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/bin/Debug/net8.0/CodeFire.Core.dll
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/bin/Debug/net8.0/CodeFire.Core.pdb
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/obj/Debug/net8.0/CodeFire.Core.csproj.AssemblyReference.cache
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/obj/Debug/net8.0/CodeFire.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/obj/Debug/net8.0/CodeFire.Core.AssemblyInfoInputs.cache
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/obj/Debug/net8.0/CodeFire.Core.AssemblyInfo.cs
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/obj/Debug/net8.0/CodeFire.Core.csproj.CoreCompileInputs.cache
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/obj/Debug/net8.0/CodeFire.Core.dll
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/obj/Debug/net8.0/refint/CodeFire.Core.dll
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/obj/Debug/net8.0/CodeFire.Core.pdb
+/Users/prestonrobbins/workspace/code-campfire/project-templates/tier2/Tier2_Backend_csharp_serilog_nunit_dapper/src/CodeFire.Core/obj/Debug/net8.0/ref/CodeFire.Core.dll
